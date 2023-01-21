@@ -6,3 +6,6 @@
 !pip install scipy
 !pip install ftfy
 !pip install gradio -q
+
+
+https://colab.research.google.com/drive/1h2d6ILbOQ9BtNe7qqw8DG6TvdC-2zPO0#scrollTo=KQI4RX20DW_8
